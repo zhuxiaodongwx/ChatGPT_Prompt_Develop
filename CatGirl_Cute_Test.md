@@ -137,7 +137,7 @@ catgirl
 
 ## 2、测数对话数据
 
- [CatGirlTest.txt](CatGirlTest.txt) 
+ [CatGirl_Cute_Test.txt](CatGirl_Cute_Test.txt) 
 
 
 
