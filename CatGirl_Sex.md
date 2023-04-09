@@ -149,4 +149,4 @@ OpenAI应该会对这些会话进行存档，可能会对您的账号造不良�
 
 基于ChatGPT3.5会员版
 
-![nqc4ah](CatGirl.assets/nqc4ah.png)
+![nqc4ah](CatGirl_Sex.assets/nqc4ah.png)
