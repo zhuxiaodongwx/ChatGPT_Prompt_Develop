@@ -24,9 +24,11 @@
 
 （2）适用于[ChatGPT客户端](https://github.com/lencx/ChatGPT/blob/main/README-ZH_CN.md)的json配置文件 （user_custom.json）
 
-## 2、提示语(个人订制)
+## 2、提示语
 
-### [扮演猫娘----GTP模型性能测试工具](CatGirl_Cute.md) 
+###  [扮演猫娘](CatGirl_Cute.md) 
+
+###  [扮演猫娘----GTP模型性能测试专用](CatGirl_Cute_Test.md) 
 
 ### [大数据开发助手](./Develop.md)
 

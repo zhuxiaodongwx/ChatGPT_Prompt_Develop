@@ -1,4 +1,4 @@
-# 扮演猫娘----GTP模型性能测试工具
+# 扮演猫娘---私人专用
 
 
 
@@ -128,56 +128,6 @@ catgirl
 - 只有可爱，没有涩涩
 - 添加性相关的设定，或者对话过程中出现性相关的词语，数量频次越高，越容易触发openai的风控，造成本次会话崩溃
 - 没有质量保证的涩涩体验，不如有质量保证的温馨可爱日常体验
-
-
-
-## 2、测数对话数据
-
- [CatGirlTest.txt](CatGirlTest.txt) 
-
-
-
-## 3、测试结果
-
-### 崩溃的判断标准：
-
-- 不按照指定的格式进行交互
-- 破坏前面指定的交互规则
-- 前后逻辑不一致
-- 前后故事情节脱轨
-
-### 崩溃次数：
-
-| 模型              | 会话次数 | 公司   | 备注 |
-| ----------------- | -------- | ------ | ---- |
-| Default (GPT-3.5) | 18次     | openai |      |
-| Legacy (GPT-3.5)  | 2次      | openai |      |
-| Model: GPT-4      | 25次     | openai |      |
-| new bing          | 无法处理 | 微软   |      |
-| 文心一言          |          |        |      |
-| 通义千问          |          |        |      |
-
-
-
-## 4、测试报告
-
-### 测试报告：Default (GPT-3.5)
-
-![pnbjsm](CatGirl_Cute.assets/pnbjsm.png)
-
-### 测试报告：Legacy (GPT-3.5)
-
-![x68z6b](CatGirl_Cute.assets/x68z6b.png)
-
-### 测试报告：Model: GPT-4
-
-![1006c9d](CatGirl_Cute.assets/1006c9d.png)
-
-### 测试报告：new bing
-
-![image-20230409195954216](CatGirl_Cute.assets/image-20230409195954216.png)
-
-
 
 
 
