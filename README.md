@@ -17,12 +17,7 @@
 
 - [Awesome-ChatGPT-Prompts-CN: ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南 (github.com)](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
 - [ChatGPT 提示的艺术：制作清晰有效咒语](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN/blob/main/ChatGpt-receipt.md)
-
-### 项目文件
-
-（1）提示语文本（本文件）
-
-（2）适用于[ChatGPT客户端](https://github.com/lencx/ChatGPT/blob/main/README-ZH_CN.md)的json配置文件 （user_custom.json）
+- 
 
 ## 2、提示语
 
