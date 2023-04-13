@@ -26,10 +26,6 @@
 
 ## 2、提示语
 
-###  [扮演猫娘](CatGirl_Cute.md) 
-
-###  [扮演猫娘----GTP模型性能测试专用](CatGirl_Cute_Test.md) 
-
 ### [大数据开发助手](./Develop.md)
 
 ### [其他角色](./Other.md)
