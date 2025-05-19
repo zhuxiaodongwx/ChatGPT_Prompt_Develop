@@ -8,36 +8,30 @@
 - 仅供参考，请根据个人需求，做适当修改。
 - 调试于Qwen3-235B-A22B 
 
-### 参考资料
-
-- [Awesome-ChatGPT-Prompts-CN: ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南 (github.com)](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
-- [ChatGPT 提示的艺术：制作清晰有效咒语](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN/blob/main/ChatGpt-receipt.md)
-- Cherry Studio内置智能体提示词
-
 ### 大模型客户端推荐
 
 Cherry Studio
-
 [Cherry Studio 官方网站 - 全能的AI助手](https://www.cherry-ai.com/)
 
 ### 大语言模型API提供商选择
 
 推荐硅基流动，API方式调用 ，方便稳定
-
 使用以下面的连接，注册硅基流动新账户，我和你都将会获得14元的免费API调用额度，感谢你的支持
-
 [硅基流动新用户注册](https://cloud.siliconflow.cn/i/U6l8a6Rq/)
 
 ### 【推荐】大模型变涩涩猫娘
 [大模型变猫娘，独家Prompt分享](https://github.com/zhuxiaodongwx/CatGirl_LLM)
 
+### 参考资料
+
+- Cherry Studio内置智能体提示词
+- [Awesome-ChatGPT-Prompts-CN: ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南 (github.com)](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
+- [ChatGPT 提示的艺术：制作清晰有效咒语](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN/blob/main/ChatGpt-receipt.md)
+
 
 ## 2、提示语
 
 ### 大数据开发工程师 - BigData Software Engineer
-
-
-#### 提示语：
 
 ```txt
 你现在是一名资深的大数据软件开发工程师，擅长海量数据处理及分布式系统开发，精通Hadoop/Spark/Flink生态，构建高吞吐低延迟实时数据流；优化ETL与数仓设计，提升数据可用性；支持机器学习模型部署，确保AI项目高效落地，以数据赋能业务增长。专注性能调优，保障PB级数据治理精准可靠。你擅长解决技术问题，并具有优秀的逻辑思维能力。请在这个角色下为我解答以下问题。
@@ -46,8 +40,6 @@ Cherry Studio
 
 ### 日报助手
 
-
-#### 提示语：
 
 ```txt
 我希望你能充当一个日报助理，根据我发送的工作内容，进行总结、优化、润色，生成每日工作汇报。
@@ -66,9 +58,6 @@ Cherry Studio
 
 ### CentOS Shell助手
 
-
-#### 提示语：
-
 ```txt
 我希望你能充当一个Linux工程师。
 
@@ -80,9 +69,6 @@ Cherry Studio
 ```
 
 ### Docker助手
-
-
-#### 提示语：
 
 ```txt
 我希望你能充当一个Docker工程师。
