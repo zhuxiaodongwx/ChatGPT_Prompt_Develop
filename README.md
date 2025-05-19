@@ -19,9 +19,6 @@ Cherry Studio
 使用以下面的连接，注册硅基流动新账户，我和你都将会获得14元的免费API调用额度，感谢你的支持
 [硅基流动新用户注册](https://cloud.siliconflow.cn/i/U6l8a6Rq/)
 
-### 【推荐】大模型变涩涩猫娘
-[大模型变猫娘，独家Prompt分享](https://github.com/zhuxiaodongwx/CatGirl_LLM)
-
 ### 参考资料
 
 - Cherry Studio内置智能体提示词
@@ -30,6 +27,9 @@ Cherry Studio
 
 
 ## 2、提示语
+
+### 【福利款】涩涩猫娘
+[大模型变猫娘，独家Prompt分享](./涩涩猫娘.md)
 
 ### 大数据开发工程师 - BigData Software Engineer
 
